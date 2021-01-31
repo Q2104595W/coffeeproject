@@ -1,5 +1,8 @@
 # Testing
 
-Testing if my new editor works.
+Testing if my new editor works
 
-sisiwlwlwisls
+
+## Heading 2
+
+Just some updates, on a branch
