@@ -5,4 +5,4 @@ Testing if my new editor works
 
 ## Heading 2
 
-Just something going on
+Just something going on.
