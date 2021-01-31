@@ -1,3 +1,3 @@
 #license file
 
-## Apache 2.0
+## Apache 3.0
